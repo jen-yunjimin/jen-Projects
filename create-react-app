@@ -1,9 +1,0 @@
-VS Code 다운 및 설치 -> 필요한 확장팩 설치
-Node.js 다운 및 설치
-Git bash 다운 및 설치
-git bash 실행
-ls -la 디렉토리 목록 숨겨진 모든 것까지 확인
-리액트 설치: npm install -g create-react-app 리액트 Create React App 설치 ('-g'는 전체를 설치한다는 의미임)
-프로젝트 생성: npx create-react-app 프로젝트이름 
-프로젝트로 이동: cd 프로젝트이름
-프로젝트 시작: npm start (Build 시 필수로 npm run start)
